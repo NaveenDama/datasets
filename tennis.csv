@@ -2,7 +2,7 @@ outlook,temp,humidity,windy,play
 sunny,hot,high,false,no
 sunny,hot,high,true,no
 overcast,hot,high,false,yes
-rainy,mild,high,flase,yes
+rainy,mild,high,false,yes
 rainy,cool,normal,false,yes
 rainy,cool,normal,true,no
 overcast,cool,normal,true,yes
